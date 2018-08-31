@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.29, created on 2018-08-30 23:14:54
+<?php /* Smarty version 2.6.29, created on 2018-08-31 17:56:32
          compiled from modules/Alerts/templates/default.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('function', 'sugar_translate', 'modules/Alerts/templates/default.tpl', 5, false),array('modifier', 'strstr', 'modules/Alerts/templates/default.tpl', 21, false),array('modifier', 'nl2br', 'modules/Alerts/templates/default.tpl', 35, false),)), $this); ?>

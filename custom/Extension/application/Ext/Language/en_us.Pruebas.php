@@ -40,4 +40,8 @@
 
 
 
+$app_list_strings['moduleList']['prue_productos'] = 'Productos';
 $app_list_strings['moduleList']['prue_usuario'] = 'Usuario';
+$app_list_strings['categoria_list']['lacteos'] = 'Lacteos';
+$app_list_strings['categoria_list']['bebidas'] = 'Bebidas';
+$app_list_strings['categoria_list']['detergentes'] = 'Detergentes';

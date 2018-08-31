@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.29, created on 2018-08-30 23:15:01
+<?php /* Smarty version 2.6.29, created on 2018-08-31 17:57:26
          compiled from include/SearchForm/tpls/headerPopup.tpl */ ?>
 <div id="searchDialog" class="modal fade modal-search" tabindex="-1" role="dialog">
     <div class="modal-dialog modal-lg">

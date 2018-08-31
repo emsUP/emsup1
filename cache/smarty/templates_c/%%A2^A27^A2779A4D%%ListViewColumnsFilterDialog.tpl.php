@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.29, created on 2018-08-30 23:15:01
+<?php /* Smarty version 2.6.29, created on 2018-08-31 17:57:26
          compiled from include/ListView/ListViewColumnsFilterDialog.tpl */ ?>
 
 <?php if (! $this->_tpl_vars['columnsFilterDialogAdded']): ?>
