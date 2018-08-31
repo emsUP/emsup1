@@ -1,0 +1,167 @@
+08/30/18 00:29:24 [8008][-none-][FATAL]  Query Failed: SELECT id, name, symbol, conversion_rate FROM currencies WHERE status = 'Active' and deleted = 0: MySQL error 1146: Table 'ems.currencies' doesn't exist
+08/30/18 00:29:24 [8008][-none-][FATAL]  Query Failed: SELECT * FROM fields_meta_data WHERE  custom_module='Users' AND  deleted = 0: MySQL error 1146: Table 'ems.fields_meta_data' doesn't exist
+08/30/18 00:29:25 [8008][-none-][FATAL]  Query Failed: SELECT * FROM fields_meta_data WHERE  custom_module='Employees' AND  deleted = 0: MySQL error 1146: Table 'ems.fields_meta_data' doesn't exist
+08/30/18 00:29:25 [8008][-none-][FATAL]  Query Failed: SELECT * FROM fields_meta_data WHERE  custom_module='UserPreferences' AND  deleted = 0: MySQL error 1146: Table 'ems.fields_meta_data' doesn't exist
+08/30/18 00:29:25 [8008][-none-][FATAL]  Query Failed: SELECT * FROM fields_meta_data WHERE  custom_module='Administration' AND  deleted = 0: MySQL error 1146: Table 'ems.fields_meta_data' doesn't exist
+08/30/18 00:29:25 [8008][-none-][FATAL] Unable to retrieve system settings Query Failed: SELECT category, name, value FROM config: MySQL error 1146: Table 'ems.config' doesn't exist
+08/30/18 00:29:50 [8008][-none-][FATAL]  Query Failed: SELECT id, name, symbol, conversion_rate FROM currencies WHERE status = 'Active' and deleted = 0: MySQL error 1146: Table 'ems.currencies' doesn't exist
+08/30/18 00:29:50 [8008][-none-][FATAL] Unable to retrieve system settings Query Failed: SELECT category, name, value FROM config: MySQL error 1146: Table 'ems.config' doesn't exist
+08/30/18 00:30:30 [8008][-none-][FATAL]  Query Failed: SELECT id, name, symbol, conversion_rate FROM currencies WHERE status = 'Active' and deleted = 0: MySQL error 1146: Table 'ems.currencies' doesn't exist
+08/30/18 00:30:30 [8008][-none-][FATAL] Unable to retrieve system settings Query Failed: SELECT category, name, value FROM config: MySQL error 1146: Table 'ems.config' doesn't exist
+08/30/18 00:30:54 [8008][-none-][FATAL]  Query Failed: SELECT id, name, symbol, conversion_rate FROM currencies WHERE status = 'Active' and deleted = 0: MySQL error 1146: Table 'ems.currencies' doesn't exist
+08/30/18 00:30:54 [8008][-none-][FATAL] Unable to retrieve system settings Query Failed: SELECT category, name, value FROM config: MySQL error 1146: Table 'ems.config' doesn't exist
+08/30/18 00:31:35 [8008][-none-][FATAL]  Query Failed: SELECT id, name, symbol, conversion_rate FROM currencies WHERE status = 'Active' and deleted = 0: MySQL error 1146: Table 'ems.currencies' doesn't exist
+08/30/18 00:31:35 [8008][-none-][FATAL] Unable to retrieve system settings Query Failed: SELECT category, name, value FROM config: MySQL error 1146: Table 'ems.config' doesn't exist
+08/30/18 00:31:56 [8008][-none-][FATAL]  Query Failed: SELECT id, name, symbol, conversion_rate FROM currencies WHERE status = 'Active' and deleted = 0: MySQL error 1146: Table 'ems.currencies' doesn't exist
+08/30/18 00:31:56 [8008][-none-][FATAL] Unable to retrieve system settings Query Failed: SELECT category, name, value FROM config: MySQL error 1146: Table 'ems.config' doesn't exist
+08/30/18 00:32:40 [8008][-none-][FATAL]  Query Failed: SELECT id, name, symbol, conversion_rate FROM currencies WHERE status = 'Active' and deleted = 0: MySQL error 1146: Table 'ems.currencies' doesn't exist
+08/30/18 00:32:40 [8008][-none-][FATAL] Unable to retrieve system settings Query Failed: SELECT category, name, value FROM config: MySQL error 1146: Table 'ems.config' doesn't exist
+08/30/18 00:32:56 [8008][-none-][FATAL]  Query Failed: SELECT id, name, symbol, conversion_rate FROM currencies WHERE status = 'Active' and deleted = 0: MySQL error 1146: Table 'ems.currencies' doesn't exist
+08/30/18 00:32:56 [8008][-none-][FATAL] Unable to retrieve system settings Query Failed: SELECT category, name, value FROM config: MySQL error 1146: Table 'ems.config' doesn't exist
+08/30/18 00:33:45 [8008][-none-][FATAL]  Query Failed: SELECT id, name, symbol, conversion_rate FROM currencies WHERE status = 'Active' and deleted = 0: MySQL error 1146: Table 'ems2.currencies' doesn't exist
+08/30/18 00:33:45 [8008][-none-][FATAL]  Query Failed: SELECT * FROM fields_meta_data WHERE  custom_module='Users' AND  deleted = 0: MySQL error 1146: Table 'ems2.fields_meta_data' doesn't exist
+08/30/18 00:33:45 [8008][-none-][FATAL]  Query Failed: SELECT * FROM fields_meta_data WHERE  custom_module='Employees' AND  deleted = 0: MySQL error 1146: Table 'ems2.fields_meta_data' doesn't exist
+08/30/18 00:33:45 [8008][-none-][FATAL]  Query Failed: SELECT * FROM fields_meta_data WHERE  custom_module='UserPreferences' AND  deleted = 0: MySQL error 1146: Table 'ems2.fields_meta_data' doesn't exist
+08/30/18 00:33:45 [8008][-none-][FATAL]  Query Failed: SELECT * FROM fields_meta_data WHERE  custom_module='Administration' AND  deleted = 0: MySQL error 1146: Table 'ems2.fields_meta_data' doesn't exist
+08/30/18 00:33:45 [8008][-none-][FATAL] Unable to retrieve system settings Query Failed: SELECT category, name, value FROM config: MySQL error 1146: Table 'ems2.config' doesn't exist
+08/30/18 00:33:56 [8008][-none-][FATAL]  Query Failed: SELECT id, name, symbol, conversion_rate FROM currencies WHERE status = 'Active' and deleted = 0: MySQL error 1146: Table 'ems2.currencies' doesn't exist
+08/30/18 00:33:56 [8008][-none-][FATAL] Unable to retrieve system settings Query Failed: SELECT category, name, value FROM config: MySQL error 1146: Table 'ems2.config' doesn't exist
+08/30/18 00:42:49 [8008][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+08/30/18 00:51:20 [8008][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+08/30/18 00:51:33 [8008][1][FATAL] Mensaje antes de guardar
+08/30/18 00:51:33 [8008][1][FATAL] Mensaje despues de guardar
+08/30/18 00:53:01 [8008][1][FATAL] Mensaje antes de guardar
+08/30/18 00:53:01 [8008][1][FATAL] Mensaje despues de guardar
+08/30/18 00:56:43 [8008][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+08/30/18 00:56:57 [8008][1][FATAL] Mensaje antes de guardar
+08/30/18 00:56:58 [8008][1][FATAL] Mensaje despues de guardar
+08/30/18 17:52:41 [6048][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+08/30/18 17:52:52 [6048][1][FATAL] Mensaje antes de guardar
+08/30/18 17:52:52 [6048][1][FATAL] Mensaje despues de guardar
+08/30/18 18:06:01 [6048][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+08/30/18 18:07:42 [6048][1][FATAL] Mensaje antes de guardar
+08/30/18 18:07:42 [6048][1][FATAL] Mensaje despues de guardar
+08/30/18 18:15:30 [6048][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+08/30/18 18:15:39 [6048][1][FATAL] Mensaje antes de guardar
+08/30/18 18:15:39 [6048][1][FATAL] Mensaje despues de guardar
+08/30/18 22:10:57 [6048][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+08/30/18 22:25:39 [6048][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+08/30/18 22:34:41 [6048][1][FATAL] hola log
+08/30/18 22:34:54 [6048][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+08/30/18 22:34:54 [6048][1][FATAL] hola log
+08/30/18 22:35:15 [6048][1][FATAL] hola log
+08/30/18 22:35:15 [6048][1][FATAL] hola etc2
+08/30/18 22:36:58 [6048][1][FATAL] hola log
+08/30/18 22:44:06 [6048][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+08/30/18 22:44:16 [6048][1][FATAL] Mensaje antes de guardar
+08/30/18 22:44:16 [6048][1][FATAL] hola etc2
+08/30/18 22:46:30 [6048][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+08/30/18 22:46:30 [6048][1][FATAL] hola log
+08/30/18 22:47:33 [6048][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+08/30/18 22:47:43 [6048][1][FATAL] Mensaje antes de guardar
+08/30/18 22:47:43 [6048][1][FATAL] Mensaje despues de guardar
+08/30/18 23:00:45 [6048][1][FATAL] hola log
+08/30/18 23:00:50 [6048][1][FATAL] hola log
+08/30/18 23:00:52 [6048][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+08/30/18 23:00:56 [6048][1][FATAL] hola log
+08/30/18 23:00:56 [6048][1][FATAL] hola etc2
+08/30/18 23:01:12 [6048][1][FATAL] hola log
+08/30/18 23:01:35 [6048][1][FATAL] hola log
+08/30/18 23:01:35 [6048][1][FATAL] hola etc2
+08/30/18 23:14:00 [6048][1][FATAL] hola log
+08/30/18 23:15:07 [6048][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+08/30/18 23:15:12 [6048][1][FATAL] Mensaje antes de guardar
+08/30/18 23:15:12 [6048][1][FATAL] Mensaje despues de guardar
+08/30/18 23:55:40 [6048][1][FATAL] Mensaje antes de guardar
+08/30/18 23:55:40 [6048][1][FATAL] Mensaje despues de guardar
+08/31/18 00:19:49 [6048][1][FATAL] Mensaje antes de guardar
+08/31/18 00:19:49 [6048][1][FATAL] Mensaje despues de guardar
+08/31/18 00:21:49 [6048][1][FATAL] Mensaje antes de guardar
+08/31/18 00:22:41 [6048][1][FATAL] Mensaje antes de guardar
+08/31/18 00:22:41 [6048][1][FATAL] Mensaje despues de guardar
+08/31/18 00:22:41 [6048][1][FATAL] Exception handling in C:\wamp\www\ems_project\include\MVC\Controller\SugarController.php:402
+08/31/18 00:22:41 [6048][1][FATAL] Exception in Controller: Could not copy 'plantilla.docx' file to 'C:\Windows\Temp\PhpD5E6.tmp'.
+08/31/18 00:22:41 [6048][1][FATAL] backtrace:
+#0 C:\wamp\www\ems_project\custom\modules\prue_usuario\logic\imprimir.php(79): PhpOffice\PhpWord\TemplateProcessor->__construct('plantilla.docx')
+#1 C:\wamp\www\ems_project\include\utils\LogicHook.php(262): Imprimir->impri(Object(prue_usuario), 'after_save', '')
+#2 C:\wamp\www\ems_project\include\utils\LogicHook.php(199): LogicHook->process_hooks(Array, 'after_save', '')
+#3 C:\wamp\www\ems_project\data\SugarBean.php(3118): LogicHook->call_custom_logic('prue_usuario', 'after_save', '')
+#4 C:\wamp\www\ems_project\data\SugarBean.php(2434): SugarBean->call_custom_logic('after_save', '')
+#5 C:\wamp\www\ems_project\include\MVC\Controller\SugarController.php(683): SugarBean->save(false)
+#6 C:\wamp\www\ems_project\include\MVC\Controller\SugarController.php(523): SugarController->action_save()
+#7 C:\wamp\www\ems_project\include\MVC\Controller\SugarController.php(491): SugarController->do_action()
+#8 C:\wamp\www\ems_project\include\MVC\Controller\SugarController.php(465): SugarController->handle_action()
+#9 C:\wamp\www\ems_project\include\MVC\Controller\SugarController.php(373): SugarController->process()
+#10 C:\wamp\www\ems_project\include\MVC\SugarApplication.php(109): SugarController->execute()
+#11 C:\wamp\www\ems_project\index.php(52): SugarApplication->execute()
+#12 {main}
+08/31/18 00:24:13 [6048][1][FATAL] Mensaje antes de guardar
+08/31/18 00:24:13 [6048][1][FATAL] Mensaje despues de guardar
+08/31/18 00:24:13 [6048][1][FATAL] Exception handling in C:\wamp\www\ems_project\include\MVC\Controller\SugarController.php:402
+08/31/18 00:24:13 [6048][1][FATAL] Exception in Controller: Could not copy 'plantilla.docx' file to 'C:\Windows\Temp\Php3D50.tmp'.
+08/31/18 00:24:13 [6048][1][FATAL] backtrace:
+#0 C:\wamp\www\ems_project\custom\modules\prue_usuario\logic\imprimir.php(79): PhpOffice\PhpWord\TemplateProcessor->__construct('plantilla.docx')
+#1 C:\wamp\www\ems_project\include\utils\LogicHook.php(262): Imprimir->impri(Object(prue_usuario), 'after_save', '')
+#2 C:\wamp\www\ems_project\include\utils\LogicHook.php(199): LogicHook->process_hooks(Array, 'after_save', '')
+#3 C:\wamp\www\ems_project\data\SugarBean.php(3118): LogicHook->call_custom_logic('prue_usuario', 'after_save', '')
+#4 C:\wamp\www\ems_project\data\SugarBean.php(2434): SugarBean->call_custom_logic('after_save', '')
+#5 C:\wamp\www\ems_project\include\MVC\Controller\SugarController.php(683): SugarBean->save(false)
+#6 C:\wamp\www\ems_project\include\MVC\Controller\SugarController.php(523): SugarController->action_save()
+#7 C:\wamp\www\ems_project\include\MVC\Controller\SugarController.php(491): SugarController->do_action()
+#8 C:\wamp\www\ems_project\include\MVC\Controller\SugarController.php(465): SugarController->handle_action()
+#9 C:\wamp\www\ems_project\include\MVC\Controller\SugarController.php(373): SugarController->process()
+#10 C:\wamp\www\ems_project\include\MVC\SugarApplication.php(109): SugarController->execute()
+#11 C:\wamp\www\ems_project\index.php(52): SugarApplication->execute()
+#12 {main}
+08/31/18 00:27:38 [6048][1][FATAL] Mensaje antes de guardar
+08/31/18 00:27:38 [6048][1][FATAL] Mensaje despues de guardar
+08/31/18 00:27:38 [6048][1][FATAL] Exception handling in C:\wamp\www\ems_project\include\MVC\Controller\SugarController.php:402
+08/31/18 00:27:38 [6048][1][FATAL] Exception in Controller: Could not copy 'plantilla.docx' file to 'C:\Windows\Temp\Php5D02.tmp'.
+08/31/18 00:27:38 [6048][1][FATAL] backtrace:
+#0 C:\wamp\www\ems_project\custom\modules\prue_usuario\logic\imprimir.php(79): PhpOffice\PhpWord\TemplateProcessor->__construct('plantilla.docx')
+#1 C:\wamp\www\ems_project\include\utils\LogicHook.php(262): Imprimir->impri(Object(prue_usuario), 'after_save', '')
+#2 C:\wamp\www\ems_project\include\utils\LogicHook.php(199): LogicHook->process_hooks(Array, 'after_save', '')
+#3 C:\wamp\www\ems_project\data\SugarBean.php(3118): LogicHook->call_custom_logic('prue_usuario', 'after_save', '')
+#4 C:\wamp\www\ems_project\data\SugarBean.php(2434): SugarBean->call_custom_logic('after_save', '')
+#5 C:\wamp\www\ems_project\include\MVC\Controller\SugarController.php(683): SugarBean->save(false)
+#6 C:\wamp\www\ems_project\include\MVC\Controller\SugarController.php(523): SugarController->action_save()
+#7 C:\wamp\www\ems_project\include\MVC\Controller\SugarController.php(491): SugarController->do_action()
+#8 C:\wamp\www\ems_project\include\MVC\Controller\SugarController.php(465): SugarController->handle_action()
+#9 C:\wamp\www\ems_project\include\MVC\Controller\SugarController.php(373): SugarController->process()
+#10 C:\wamp\www\ems_project\include\MVC\SugarApplication.php(109): SugarController->execute()
+#11 C:\wamp\www\ems_project\index.php(52): SugarApplication->execute()
+#12 {main}
+08/31/18 00:27:55 [6048][1][FATAL] Mensaje antes de guardar
+08/31/18 00:27:55 [6048][1][FATAL] Mensaje despues de guardar
+08/31/18 00:27:55 [6048][1][FATAL] Exception handling in C:\wamp\www\ems_project\include\MVC\Controller\SugarController.php:402
+08/31/18 00:27:55 [6048][1][FATAL] Exception in Controller: Could not copy 'plantilla.docx' file to 'C:\Windows\Temp\PhpA133.tmp'.
+08/31/18 00:27:55 [6048][1][FATAL] backtrace:
+#0 C:\wamp\www\ems_project\custom\modules\prue_usuario\logic\imprimir.php(79): PhpOffice\PhpWord\TemplateProcessor->__construct('plantilla.docx')
+#1 C:\wamp\www\ems_project\include\utils\LogicHook.php(262): Imprimir->impri(Object(prue_usuario), 'after_save', '')
+#2 C:\wamp\www\ems_project\include\utils\LogicHook.php(199): LogicHook->process_hooks(Array, 'after_save', '')
+#3 C:\wamp\www\ems_project\data\SugarBean.php(3118): LogicHook->call_custom_logic('prue_usuario', 'after_save', '')
+#4 C:\wamp\www\ems_project\data\SugarBean.php(2434): SugarBean->call_custom_logic('after_save', '')
+#5 C:\wamp\www\ems_project\include\MVC\Controller\SugarController.php(683): SugarBean->save(false)
+#6 C:\wamp\www\ems_project\include\MVC\Controller\SugarController.php(523): SugarController->action_save()
+#7 C:\wamp\www\ems_project\include\MVC\Controller\SugarController.php(491): SugarController->do_action()
+#8 C:\wamp\www\ems_project\include\MVC\Controller\SugarController.php(465): SugarController->handle_action()
+#9 C:\wamp\www\ems_project\include\MVC\Controller\SugarController.php(373): SugarController->process()
+#10 C:\wamp\www\ems_project\include\MVC\SugarApplication.php(109): SugarController->execute()
+#11 C:\wamp\www\ems_project\index.php(52): SugarApplication->execute()
+#12 {main}
+08/31/18 00:28:41 [6048][1][FATAL] Mensaje antes de guardar
+08/31/18 00:28:41 [6048][1][FATAL] Mensaje despues de guardar
+08/31/18 00:29:16 [6048][1][FATAL] Mensaje antes de guardar
+08/31/18 00:29:16 [6048][1][FATAL] Mensaje despues de guardar
+08/31/18 00:30:55 [6048][1][FATAL] Mensaje antes de guardar
+08/31/18 00:30:55 [6048][1][FATAL] Mensaje despues de guardar
+08/31/18 00:32:41 [6048][1][FATAL] Mensaje antes de guardar
+08/31/18 00:32:41 [6048][1][FATAL] Mensaje despues de guardar
+08/31/18 00:39:16 [6048][1][FATAL] Mensaje antes de guardar
+08/31/18 00:39:16 [6048][1][FATAL] Mensaje despues de guardar
+08/31/18 16:16:25 [976][1][FATAL] Mensaje antes de guardar
+08/31/18 16:16:25 [976][1][FATAL] Mensaje despues de guardar
+08/31/18 16:18:18 [976][1][FATAL] Mensaje antes de guardar
+08/31/18 16:18:18 [976][1][FATAL] Mensaje despues de guardar
+08/31/18 16:19:23 [976][1][FATAL] Mensaje antes de guardar
+08/31/18 16:19:23 [976][1][FATAL] Mensaje despues de guardar

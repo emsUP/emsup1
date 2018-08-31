@@ -1,0 +1,1 @@
+08/30/18 00:28:49 [8008][-none-][FATAL]  Query Failed: DROP DATABASE IF EXISTS `ems`: MySQL error 1010: Error dropping database (can't rmdir '.\ems', errno: 41)
